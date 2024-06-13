@@ -3,7 +3,7 @@
 This project implements a convolutional neural network (CNN) to classify images of dogs and cats. It utilizes the TensorFlow and Keras libraries for building and training the model. The dataset used for training and testing consists of images of dogs and cats.
 
 ## Dataset
-The dataset used for this project can be found on Kaggle: Dogs vs Cats Dataset. It contains a large number of images of dogs and cats for training and testing the classifier.
+The dataset used for this project can be found on Kaggle: Here is a link to dataset https://www.kaggle.com/datasets/salader/dogs-vs-cats . It contains a large number of images of dogs and cats for training and testing the classifier.
 
 ## Requirements
 To run the code in this project, you need the following dependencies:
