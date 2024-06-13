@@ -9,10 +9,15 @@ The dataset used for this project can be found on Kaggle: Dogs vs Cats Dataset. 
 To run the code in this project, you need the following dependencies:
 
 Python (>= 3.6)
+
 TensorFlow (>= 2.0)
+
 NumPy
+
 Matplotlib
+
 OpenCV (cv2)
+
 
 ## Usage
 Download the dataset from Kaggle using the provided link.
