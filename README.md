@@ -38,6 +38,3 @@ The training process typically yields an accuracy of around 97-98% on the traini
 
 ## Contributing
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
