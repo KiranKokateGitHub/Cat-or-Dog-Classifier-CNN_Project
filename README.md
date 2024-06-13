@@ -8,21 +8,21 @@ The dataset used for this project can be found on Kaggle: Dogs vs Cats Dataset. 
 ## Requirements
 To run the code in this project, you need the following dependencies:
 
-Python (>= 3.6)
+* Python (>= 3.6)
 
-TensorFlow (>= 2.0)
+* TensorFlow (>= 2.0)
 
-NumPy
+* NumPy
 
-Matplotlib
+* Matplotlib
 
-OpenCV (cv2)
+* OpenCV (cv2)
 
 
 ## Usage
-Download the dataset from Kaggle using the provided link.
-Ensure all dependencies are installed.
-Run the provided code cells in a Python environment, such as Jupyter Notebook or Google Colab.
+1. Download the dataset from Kaggle using the provided link.
+2. Ensure all dependencies are installed.
+3. Run the provided code cells in a Python environment, such as Jupyter Notebook or Google Colab.
 
 ## Model Architecture
 The CNN model architecture consists of several convolutional layers followed by max-pooling layers. Batch normalization and dropout layers are used for regularization. The model is compiled with the Adam optimizer and binary cross-entropy loss function.
