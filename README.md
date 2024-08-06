@@ -1,4 +1,4 @@
-# Cat-or-Dog-Classifier-CNN_Project
+# Cat-or-Dog-Classification-CNN_Project
  
 This project implements a convolutional neural network (CNN) to classify images of dogs and cats. It utilizes the TensorFlow and Keras libraries for building and training the model. The dataset used for training and testing consists of images of dogs and cats.
 
