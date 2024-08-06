@@ -37,7 +37,6 @@ To run the code in this project, you need the following dependencies:
 
 * OpenCV (cv2)
 
-
 ## Usage
 1. **Data Preparation**: Download and prepare the dataset from Kaggle.
 2. **Model Training**: Train the model using the provided scripts, ensuring that the dataset is properly split into training and testing sets.
