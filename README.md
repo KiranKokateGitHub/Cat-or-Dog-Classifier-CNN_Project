@@ -6,7 +6,6 @@ This project implements a convolutional neural network (CNN) to classify images 
 The dataset used for this project can be found on Kaggle: Here is a link to dataset https://www.kaggle.com/datasets/salader/dogs-vs-cats . It contains a large number of images of dogs and cats for training and testing the classifier.
 The dataset contains thousands of labeled images of cats and dogs, split into training and testing sets. Before using the dataset, please ensure you have accepted the competition rules on the Kaggle website.
 
-
 ## Model Architecture
 The classification model utilizes a pre-trained MobileNet V2 architecture as the base feature extractor. MobileNet V2 is a lightweight and efficient network known for its performance on mobile and embedded vision applications. For this project:
 
